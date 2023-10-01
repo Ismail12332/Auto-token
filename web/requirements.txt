@@ -1,0 +1,6 @@
+flask
+python-dotenv
+pymongo[srv]
+gunicorn
+bcrypt
+flask_restful
